@@ -1,19 +1,19 @@
 - layout: left
-  company: Z-Tech | Part of AB Inbev
+  company: Z-Tech | Part of AB-Inbev
   link: ztech.net
   job_title: Data Engineer (Mimercado Marketplace)
   dates: July 2020 - Present
-  description: | # this will include new lines to allow paragraphs
-    Now on the global team, my main goal is to continue the work started at Donus and drive data transformation for a new business: Mimercado. /n
+  description: |
+    Now on the global team, my main goal is to continue the work started at Donus and drive data transformation for a new business: Mimercado.
     
-    Apart from the <mark>Azure</mark> Stack from the previous experience (same team), I'm being challenged on working primarily with the <mark>English language</mark> as well as <mark>Spanish</mark>.
+    Apart from the <mark>Azure</mark> Stack from the previous experience (same team), I'm being challenged on working primarily with the <mark>English</mark> language as well as <mark>Spanish</mark>.
 
 - layout: left
-  company: Z-Tech | Part of AB Inbev
+  company: Z-Tech | Part of AB-Inbev
   link: ztech.net
   job_title: Data Engineer (Donus Marketplace)
   dates: March 2020 - July 2020
-  description: | # this will include new lines to allow paragraphs
+  description: |
     • <mark>AWS</mark> Data Lake Built from scratch;
 
     • AWS <mark>Data Lake architecture</mark> design;
@@ -29,40 +29,98 @@
     • Data Lake Redesign using ADLS as main data storage, Spark for data processing and transformation between layers;
 
     • Databricks (<mark>Spark</mark>) environment for users;
+
+    • PowerBI for data visualization.
+
+
+    ➤ Stack:
+
+    Docker; Airflow; Python; PowerBI; Postgres; MySql; MongoDB; ...;
+
+    AWS (EMR, Presto, Athena, Glue, SageMaker, Lambda, API Gateway, S3, EC2, RDS, Overall Network...);
+
+    Azure (VMs, ADLS Gen2, DataBricks, Spark, a little Kubernetes, Overall Network...)
+
+- layout: left
+  company: Z-Tech | Part of AB-Inbev
+  link: ztech.net
+  job_title: Lead Data Analyst (Bario POS System)
+  dates: January 2020 - February 2020
+  description: |
+    During my time at Bario I worked as fullstack data analyst, where I was supposed to create data extraction pipelines from different sources, develop analysis for the main business KPIs and also create the foundation for data analytics and science.
     
-    • PowerBI for data visualization.     
+    Unfortunately, after a year past since the beginning of the product and some business analysis, the product was found not to be worth continue developing.
+    
+    ➤ Stack: AWS; Python; Jupyter; PowerBI; Postgres; Azure Data Warehouse
 
-# - title: 
-#   dates: 
-# - title: Lead Data Analyst (Bario POS System)
-#   dates: January 2020 - February 2020
+- layout: left
+  company: Ambev Brewery | Part of AB-Inbev
+  link: www.ambev.com.br
+  job_title: Data Specialist
+  dates: April 2019 - December 2019
+  description: |
+    • Development of Machine Learning Algorithms to forecast and prioritize asset lending. (Finance)
 
-# Data Engineer (Donus Fintech)
-# março de 2020 - julho de 2020 (5 meses) São Paulo, Brasil
-# ➤ Description:
-# • AWS Data Lake Built from scratch;
-#  Page 1 of 4
-# • AWS Data Lake architecture design;
-# • Development of various Airflow DAGs for a variety of data sources. (Mongo, Postgres, APIs...);
-# • S3 as main data storage, EMR (Presto) for data processing between layers and Athena for users querying;
-# • API Development to expose ML data back to the applications;
-# •• Data Lake migration to Azure Cloud Environment;
-# • Data Lake Redesign using ADLS as main data storage, Spark for data processing and transformation between layers;
-# • Databricks (Spark) environment for users;
-# • PowerBI for data visualization.
-# ➤ Stack:
-# Docker; Airflow; Python; PowerBI; Postgres; MySql; MongoDB; ...;
-# AWS (EMR, Presto, Athena, Glue, SageMaker, Lambda, API Gateway, S3, EC2, RDS, Overall Network...);
-# Azure (VMs, ADLS Gen2, DataBricks, Spark, a little Kubernetes, Overall Network...)
-# janeiro de 2020 - fevereiro de 2020 (2 meses) São Paulo e Região, Brasil
-# ➤ Description:
-# • Data extraction from different sources;
-# • Data cleansing and analysis;
-# • Development of main business KPIs;
-# • I was hired as fullstack data analyst, where I was supposed to create data extraction pipelines from different sources and also the foundation for data analytics and science, but after some analysis and a year past since the beginning of the product, it was found not to be worth continuing.
-# ➤ Stack:
-# AWS; Python; Jupyter; PowerBI; Postgres; Azure Data Warehouse
-# Cervejaria Ambev 1 ano 1 mês
-# Data Specialist
-# abril de 2019 - janeiro de 2020 (10 meses) Campinas e Região, Brasil
-# ➤ Description:
+    • Development of various ETL processes to feed PowerBI dashboards. (Legal)
+    
+    • Manager on a Legal DataLake project. (Legal)
+
+    • Manager on a Demand Forecasting project. (Logistics)
+
+    ➤ Stack: Azure; Spark(PySpark, PySql); DataBricks; Python; Airflow; Postgres; Jupyter; XGBoost; Scikit-Learn; PowerBI.
+
+- layout: left
+  company: Ambev Brewery | Part of AB-Inbev
+  link: www.ambev.com.br
+  job_title: Technology Trainee
+  dates: January 2019 - April 2019
+  description: |
+    Complete training of Ambev Brewery operations that enabled me to learn from the selection of ingredients to the company's business strategies.
+    
+    • Sales Training: Distribution Center (Diadema / SP and Campinas / SP)
+    
+    • Supply Training: Águas da Serra Brewery (Guarulhos / SP); Cervejaria do Vale (Jacareí / SP)
+    
+    • Corporate Training: Central Administration (São Paulo / SP); Shared Services Center (Jaguariúna / SP)
+
+- layout: right
+  company: BeeSports
+  job_title: Enterpreneur
+  dates: March 2018 - December 2018
+  description: |
+    • Created a movement recognition algorithm (C++) capable of measuring steps and distance traveled with the help of microchips, such as ESP Modules and MPU6050 Accelerometers.
+    
+    • Capture and Storage of real-time data in Amazon Web Services (AWS) and shown on an Android mobile app.
+    
+    • Winner of the 2018-1 ESPM entrepreneurship fair and as a prize, received a space in a coworking office.
+
+    ➤ Stack: AWS(EC2, S3, Lambda, RDS); C++; MQTT protocol; Microcontrollers
+
+- layout: left
+  company: XP Investimentos | XP Inc.
+  link: xpinc.com
+  job_title: Data Engineering Intern
+  dates: February 2017 - March 2018
+  description: |
+    • Development of ETL data flows (Microsoft Integration Services SSIS) to integrate the company into a unique view.
+    
+    • Development of implementations and maintenance of the Data Warehouse.
+    
+    • Distribution of key performance indicators (KPIs) to the company and support in various data-driven projects of other areas.
+    
+    • Maintenance of data routines that update Tableau and PowerBI Dashboards. 
+    
+    • Maintenance of the Tableau and PowerBI environment.
+    
+    • Development and Maintenance of information security in a variety of ambients.
+    
+    ➤ Stack: Data Warehousing; Tableau; PowerBI; Microsoft Integration Services; Pentaho; SSRS; Microsoft SQL Server; Oracle; Postgres; MySql
+
+- layout: right
+  company: Rico.com.vc
+  link: rico.com.vc
+  job_title: Summer Intern
+  dates: January de 2017 - January de 2017
+  description: |
+    For a month, I was challenged to get to know all the financial company areas and develop a project related to technology. 
+    The project consisted of the gamification of the educational part of their mobile app.
