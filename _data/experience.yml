@@ -1,16 +1,32 @@
 - layout: left
   company: Z-Tech | Part of AB Inbev
   link: ztech.net
-  jobs: 
-    - title: Data Engineer (Mimercado Marketplace)
-      dates: July 2020 - Present
-    - title: Data Engineer (Donus Marketplace)
-      dates: March 2020 - July 2020
-    - title: Lead Data Analyst (Bario POS System)
-      dates: January 2020 - February 2020
+  job_title: Data Engineer (Mimercado Marketplace)
+  dates: July 2020 - Present
   description: | # this will include new lines to allow paragraphs
-    ➤ Description: Now on the global team, my main goal is to continue the work started at Donus and drive data transformation for a new business: Mimercado.
-    ➤ Stack: Apart from the Azure Stack from the previous experience (same team), I'm being challenged on working primarily with the English language as well as Spanish.
+    Now on the global team, my main goal is to continue the work started at Donus and drive data transformation for a new business: Mimercado. /n
+    Apart from the Azure Stack from the previous experience (same team), I'm being challenged on working primarily with the English language as well as Spanish.
+
+- layout: left
+  company: Z-Tech | Part of AB Inbev
+  link: ztech.net
+  job_title: Data Engineer (Donus Marketplace)
+  dates: March 2020 - July 2020
+  description: | # this will include new lines to allow paragraphs
+    • AWS Data Lake Built from scratch;
+    • AWS Data Lake architecture design;
+    • Development of various Airflow DAGs for a variety of data sources. (Mongo, Postgres, APIs...);
+    • S3 as main data storage, EMR (Presto) for data processing between layers and Athena for users querying;
+    • API Development to expose ML data back to the applications;
+    • Data Lake migration to Azure Cloud Environment;
+    • Data Lake Redesign using ADLS as main data storage, Spark for data processing and transformation between layers;
+    • Databricks (Spark) environment for users;
+    • PowerBI for data visualization.     
+
+# - title: 
+#   dates: 
+# - title: Lead Data Analyst (Bario POS System)
+#   dates: January 2020 - February 2020
 
 # Data Engineer (Donus Fintech)
 # março de 2020 - julho de 2020 (5 meses) São Paulo, Brasil
