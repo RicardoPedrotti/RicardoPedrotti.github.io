@@ -54,7 +54,7 @@
     ➤ Stack: AWS; Python; Jupyter; PowerBI; Postgres; Azure Data Warehouse
 
 - layout: left
-  company: Ambev Brewery | AB-Inbev
+  company: Ambev | AB-Inbev
   link: www.ambev.com.br
   job_title: Data Specialist
   dates: April 2019 - December 2019
@@ -70,7 +70,7 @@
     ➤ Stack: Azure; Spark(PySpark, PySql); DataBricks; Python; Airflow; Postgres; Jupyter; XGBoost; Scikit-Learn; PowerBI.
 
 - layout: left
-  company: Ambev Brewery | AB-Inbev
+  company: Ambev | AB-Inbev
   link: www.ambev.com.br
   job_title: Technology Trainee
   dates: January 2019 - April 2019
@@ -83,7 +83,7 @@
     
     • Corporate Training: Central Administration (São Paulo / SP); Shared Services Center (Jaguariúna / SP)
 
-- layout: right
+- layout: left
   company: BeeSports
   job_title: Enterpreneur
   dates: March 2018 - December 2018
@@ -116,7 +116,7 @@
     
     ➤ Stack: Data Warehousing; Tableau; PowerBI; Microsoft Integration Services; Pentaho; SSRS; Microsoft SQL Server; Oracle; Postgres; MySql
 
-- layout: right
+- layout: left
   company: Rico.com.vc
   link: rico.com.vc
   job_title: Summer Intern
