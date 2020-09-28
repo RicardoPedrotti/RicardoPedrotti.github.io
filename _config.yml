@@ -24,7 +24,7 @@ linkedin_username: ricardo-pedrotti-38a46411b
 about_title: About Me
 about_profile_image: images/profile.png
 about_content: | # this will include new lines to allow paragraphs
-  Hey, nice having you here! :) This page is intended to go over most relevant details about my professional life. If you want a shot version of it, please click the 
+  Hey, nice having you here! :) This page is intended to go over most relevant details about my professional life. If you want a shot version of it, please click [here](https://www.linkedin.com/in/ricardo-pedrotti-38a46411b/) or the Linkedin logo above.
   
   My name is Ricardo Pedrotti and I'm a Data Engineer. 
   
