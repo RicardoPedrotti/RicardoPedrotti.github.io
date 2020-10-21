@@ -85,7 +85,7 @@
 
 - layout: left
   company: BeeSports
-  job_title: E˚ntrepreneur
+  job_title: Entrepreneur
   dates: March 2018 - December 2018
   description: |
     • Created a movement recognition algorithm (C++) capable of measuring steps and distance traveled with the help of microchips, such as ESP Modules and MPU6050 Accelerometers.
