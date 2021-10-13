@@ -27,7 +27,7 @@ about_content: | # this will include new lines to allow paragraphs
   **Hey, nice having you here!** :) This page is intended to go over *most relevant details* about my professional life. If you want a shot version of it, please click [here](https://www.linkedin.com/in/ricardo-pedrotti-38a46411b/) or the Linkedin logo above.
 
 
-  <mark>My name is **Ricardo Pedrotti** and I'm a Data Engineer.</mark>
+  <mark>My name is Ricardo Pedrotti and I'm a Data Engineer.</mark>
   
   **I'm currently in Munich (Germany) working for Global Savings Group as part of the core team.** Our mission is to empower consumers by delivering rewards on every purchase they make.
 
@@ -35,7 +35,7 @@ about_content: | # this will include new lines to allow paragraphs
   
   My whole carreer has been based on the "new" *on cloud data market*. I have a strong experience with two of the main cloud providers: <mark>AWS</mark> and <mark>Azure</mark>.
   
-  <mark>My main tech skills are</mark>: Python, Spark, Scala, Overall SQL, AWS and Azure Data Services (S3, EMR, Athena,, Kinesis Firehose, Blob Storage, DataBricks...), AWS and Azure CICD Tools (Code Deploy, Code Build, Azure Pipelines...), Airflow, Self Service BI, Docker among with may others.
+  <mark>My Main Tech Skills are</mark>: Python, Spark, Scala, Overall SQL, AWS and Azure Data Services (S3, EMR, Athena,, Kinesis Firehose, Blob Storage, DataBricks...), AWS and Azure CICD Tools (Code Deploy, Code Build, Azure Pipelines...), Airflow, Self Service BI, Docker among many others.
 
 # Projects Section
 # projects_title: Projects
