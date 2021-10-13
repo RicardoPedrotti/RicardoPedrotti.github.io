@@ -7,15 +7,15 @@
   description: |
     • Maintenance and Development of <mark>Real-Time</mark> website events using AWS Lambda and Kinesis with Spark Post-Processing;
 
-    • Development of a Customized <mark>Data Qaulity Framework</mark> based on Great Expectations;
+    • Development of a Customised <mark>Data Quality Framework</mark> based on Great Expectations;
 
     • Data Ingestion from different sources using <mark>Scala/Spark or Python</mark> for simple jobs;
 
-    • Managment of the <mark>Airflow</mark> code and infrastructure;
+    • Management of the <mark>Airflow</mark> code and infrastructure;
 
     • S3 as main data storage, EMR (Scala/Spark) for data processing between layers and Athena for user querying;
 
-    • Managment of the <mark>CI-CD</mark> pipelines whithin the team scope;
+    • Management of the <mark>CI-CD</mark> pipelines within the team scope;
 
     • Python side-project to empower the business team to adjust mutable pipeline configurations;
 
