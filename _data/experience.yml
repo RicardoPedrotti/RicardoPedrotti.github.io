@@ -5,7 +5,7 @@
   location: Munich (Germany)
   dates: January 2021 - Present
   description: |
-    • Maintenance and Development of <mark>real-time</mark> website events using AWS Lambda and Kinesis with Spark Post-Processing;
+    • Maintenance and Development of <mark>Real-Time</mark> website events using AWS Lambda and Kinesis with Spark Post-Processing;
 
     • Development of a Customized <mark>Data Qaulity Framework</mark> based on Great Expectations;
 
@@ -15,14 +15,14 @@
 
     • S3 as main data storage, EMR (Scala/Spark) for data processing between layers and Athena for user querying;
 
-    • Managment of the CI-CD pipelines whithin the team scope;
+    • Managment of the <mark>CI-CD</mark> pipelines whithin the team scope;
 
-    • Empowering the business team to adjust mutable pipeline configurations;
+    • Python side-project to empower the business team to adjust mutable pipeline configurations;
 
 
     ➤ Stack:
 
-    Spark; Airflow; Python; Scala;  ...;
+    Spark; Airflow; Python; Scala; ...
 
     AWS (EMR, Athena, Glue, Lambda, S3, EC2, CI-CD Services, Overall Network...);
 
@@ -66,7 +66,7 @@
 
     ➤ Stack:
 
-    Docker; Airflow; Python; PowerBI; Postgres; MySql; MongoDB; ...;
+    Docker; Airflow; Python; PowerBI; Postgres; MySql; MongoDB; ...
 
     AWS (EMR, Presto, Athena, Glue, SageMaker, Lambda, API Gateway, S3, EC2, RDS, Overall Network...);
 
