@@ -25,14 +25,17 @@ about_title: About Me
 about_profile_image: images/profile.png
 about_content: | # this will include new lines to allow paragraphs
   Hey, nice having you here! :) This page is intended to go over most relevant details about my professional life. If you want a shot version of it, please click [here](https://www.linkedin.com/in/ricardo-pedrotti-38a46411b/) or the Linkedin logo above.
+
+
+  My name is **Ricardo Pedrotti** and I'm a Data Engineer.
   
-  My name is Ricardo Pedrotti and I'm a Data Engineer. 
+  I'm currently in Munich (Germany) working for Global Savings Group as part of the core team. Our mission is to empower consumers by delivering rewards on every purchase they make.
+
+  My role as a Data Engineer is to leverage the company with the best processes and information for any kind of analytics application. I act both as a Data Engineer and when needed, as a Data Devops, mainly managing the whole Airflow infrastructure and CICD Pipelines.
   
-  I'm currently working for the AB-Inbev's Z-Tech as part of the global team. Our mission is to empower small and medium-sized business through technology. My role there is to leverage the distinct companies with accurate data for the best analysis and prediction algorithms.
+  My whole carreer has been based on the "new" *on cloud data market*. I have a strong experience with two of the main cloud providers: <mark>AWS</mark> and <mark>Azure</mark>.
   
-  My whole carreer has been based on the new *on cloud data market*. I already had experience with two of the main cloud providers: <mark>AWS</mark> and <mark>Azure</mark>.
-  
-  I love being a hands-on person and understand the details of things I admire. My main tech skills are: <mark>Python</mark>, <mark>Spark</mark>, <mark>SQL</mark>, <mark>AWS Data Services (S3, EMR, Athena...)</mark>, <mark>Airflow</mark>, <mark>Spark</mark>, <mark>Self Service BI</mark>, <mark>Docker</mark> among with may others.
+  I love being a hands-on person and understand the details of things I admire. My main tech skills are: <mark>Python</mark>, <mark>Spark</mark>, <mark>Scala</mark>, <mark>Overall SQL</mark>, <mark>AWS and Azure Data Services (S3, EMR, Athena,, Kinesis Firehose, Blob Storage, DataBricks...)</mark>, <mark>AWS and Azure CICD Tools (Code Deploy, Code Build, Azure Pipelines...)</mark>, <mark>Airflow</mark>, <mark>Self Service BI</mark>, <mark>Docker</mark> among with may others.
 
 # Projects Section
 # projects_title: Projects
