@@ -1,9 +1,24 @@
 - layout: left
   company: Global Savings Group
   link: global-savings-group.com
+  job_title: Lead Data Engineer
+  location: London (United Kingdom)
+  dates: April 2022 - Present
+  description: |
+    • Now leading two multicultural data teams among different domains, the goal is to enhance GSG's data platform with 
+    even more quality and robustness.
+
+    ➤ Stack:
+
+    Same as below :)
+
+
+- layout: left
+  company: Global Savings Group
+  link: global-savings-group.com
   job_title: Data Engineer
   location: Munich (Germany)
-  dates: January 2021 - Present
+  dates: January 2021 - April 2022
   description: |
     • Maintenance and Development of <mark>Real-Time</mark> website events using AWS Lambda and Kinesis with Spark Post-Processing;
 
@@ -24,7 +39,7 @@
 
     Spark; Airflow; Python; Scala; ...
 
-    AWS (EMR, Athena, Glue, Lambda, S3, EC2, CI-CD Services, Overall Network...)
+    AWS (EMR, Athena, Kinesis, Glue, Lambda, S3, EC2, CI-CD Services, Overall Network...)
 
 
 - layout: left
